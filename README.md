@@ -1,6 +1,6 @@
 # Machine Learning Model for the Planetary Albedo
 
-<img src="https://github.com/AkhileshThite/Planetary-Albedo/blob/main/Moon/data/Lunar.png" width="100" height="100"></img> <img src="https://github.com/AkhileshThite/Planetary-Albedo/blob/main/Mercury/data/Mercury.png" width="100" height="100"></img>
+<img src="https://github.com/AkhileshThite/Planetary-Albedo/blob/main/Moon/data/Lunar.png" width="200" height="200"></img> <img src="https://github.com/AkhileshThite/Planetary-Albedo/blob/main/Mercury/data/Mercury.png" width="200" height="250"></img>
 
 NASA's Lunar Prospector orbited the Moon for almost 19 months to map its surface composition and to look for polar ice. The probe found evidence suggesting water ice at both poles. The mission ended with the spacecraft impacting the lunar surface, creating a dust cloud that was studied from Earth.
 
