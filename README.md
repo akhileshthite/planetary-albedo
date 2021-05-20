@@ -1,7 +1,5 @@
 # Machine Learning Model for the Planetary Albedo
 
-<img align="left" src="https://github.com/AkhileshThite/Planetary-Albedo/blob/main/Moon/data/Lunar.png" width="150" height="150"></img>
-
 NASA's Lunar Prospector orbited the Moon for almost 19 months to map its surface composition and to look for polar ice. The probe found evidence suggesting water ice at both poles. The mission ended with the spacecraft impacting the lunar surface, creating a dust cloud that was studied from Earth.
 
 NASA’s MESSENGER spacecraft orbited Mercury from 2011 to 2015 (for almost 4 years). The mission determined Mercury’s surface composition, revealed its geological history, discovered details about its internal magnetic field, and verified its polar deposits are dominantly water-ice. <img align="right" src="https://github.com/AkhileshThite/Planetary-Albedo/blob/main/Mercury/data/Mercury.png" width="155" height="155"></img>
